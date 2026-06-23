@@ -5,7 +5,7 @@
 {"sid":"human_hero_1_description","text":"“Ister” ei ole nimi, vaan sirpale nimestä. Sillä hän itse ei ole henkilö, vaan sirpale henkilöstä.\nVoimakas maagi pyrki kerran pääsemään eroon ruumiistaan vapauttaakseen hengen. Rituaali onnistui — henki vapautui. Ruumis ei kuitenkaan tuhoutunut, vaan nousi kävelemään. Nyt Ister vaeltaa maailmaa päämäärättä, etsien nimensä toista puoliskoa… itsensä toista puoliskoa."},
 {"sid":"human_hero_1_spec_name","text":"Vaeltaja"},
 {"sid":"human_hero_1_spec_description","text":"Hänellä on +{0}% liikkumispisteitä jokaista {1} sankaritasoa kohden. Liikkuu huomattavasti tehokkaammin teillä."},
-{"sid":"human_hero_2","text":"Leon Tahmasormi"},
+{"sid":"human_hero_2","text":"Leon Liimanäppi"},
 {"sid":"human_hero_2_motto","text":"Hän tunsi maat kuin viisi (tahmeaa) sormeaan — silti ne saivat hänet talutushihnaan."},
 {"sid":"human_hero_2_description","text":"Leon oli kerran vaikeimmin tavoitettava rosvo, joka nokkeluudessaan voitti niin virkamiehet kuin ritaritkin. Lopulta hänet sai kiinni inkvisitio. Pikamestauksen sijaan hänelle tarjottiin diiliä: palvele Kirkkoa, käytä vertaansa vailla olevia taitojasi tiheimpienkin metsien luotaamiseen, niin henkesi säästetään.\nHurskaat sielut eivät pelkää kuolemaa, mutta Leon ei ole hurskas. Niinpä hän suostui pukemaan Kirkon kaulapannan, maagisen kahleen, joka sitoo hänet. Ehkä se jonakin päivänä murtuu."},
 {"sid":"human_hero_2_spec_name","text":"Tienetsijä"},
