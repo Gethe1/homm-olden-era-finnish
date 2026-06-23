@@ -204,7 +204,7 @@
 {"sid":"fraction_law_unfrozen_1_name","text":"Veronkantajat"},
 {"sid":"fraction_law_unfrozen_1_desc","text":"Tuottaa {0} kultaa päivässä."},
 {"sid":"fraction_law_unfrozen_2_name","text":"Sukupolvien viisaus"},
-{"sid":"fraction_law_unfrozen_2_desc","text":"Sankarisi saavat +{0}% KP."},
+{"sid":"fraction_law_unfrozen_2_desc","text":"Sankarisi saavat +{0}% XP."},
 {"sid":"fraction_law_unfrozen_3_name","text":"Resurssirikkaudet I"},
 {"sid":"fraction_law_unfrozen_3_desc","text":"Antaa kertaluonteisen erän {0} kultaa, {1} puuta ja {1} malmia voimaan astuessaan."},
 {"sid":"fraction_law_unfrozen_4_name","text":"Jäätynyt kotimaa"},
