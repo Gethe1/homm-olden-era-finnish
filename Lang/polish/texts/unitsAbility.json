@@ -920,6 +920,8 @@
 {"sid":"mech_guard_narrativeDescription","text":"Nämä rakennelmat seuraavat usein vartijoita — ehkä nämä ovat niiden tekemiä. Ne väittävät tehtävänsä olevan yksinkertaisesti tarkkailla maailmaa ja raportoida tekijöilleen, nähdäkseen, tarvitseeko jotain korjata. Mutta miksi pelkät tarkkailijat ovat niin hyvin varustettuja taisteluun?"},
 {"sid":"mech_guard_ability_1_name","text":"Aikasilmukka"},
 {"sid":"mech_guard_ability_1_description","text":"Asettaa näkymättömän ansan. Kun vihollisen maaolento astuu sen päälle, olento kuljetetaan takaisin lähtöpisteeseensä ja pakotetaan päättämään vuoronsa.\nKesto: {0} kierrosta."},
+{"sid":"mech_guard_passive_1_name","text":"Korkeampi tarkoitus"},
+{"sid":"mech_guard_passive_1_description","text":"Immuuni vaikutuksille, jotka tappavat ylimääräisiä yksiköitä."},
 {"sid":"coatl_name","text":"Couatl"},
 {"sid":"coatl_narrativeDescription","text":"Nämä höyhenkäärmeet nojaavat usein pelkkään voimaansa, juontaen juurensa vanhemmista, alkukantaisemmista ajoista. Niiden suomut tekevät niistä läpitunkemattomia loitsuille, jotka muuttavat olemusta."},
 {"sid":"coatl_passive_1_name","text":"Alkukantainen itsepäisyys"},

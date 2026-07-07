@@ -431,7 +431,7 @@
 {"sid":"superUpgradeUnitWindowHeader","text":"Päivitä"},
 {"sid":"superUpgradeUnitWindowSubHeader","text":"Vahvista päivitys"},
 {"sid":"upgradeUnitWindowConvertButton","text":"Päivitä olento"},
-{"sid":"unitWindowTier","text":"Porras: {0}"},
+{"sid":"unitWindowTier","text":"Taso: {0}"},
 {"sid":"unitWindowUpgrade","text":"Päivitä"},
 {"sid":"unitWindowConvert","text":"Vaihda päivitys"},
 {"sid":"unitWindowSpecialUpgrade","text":"Päivitä"},

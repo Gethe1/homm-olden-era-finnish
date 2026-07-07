@@ -8,6 +8,7 @@
 {"sid":"magic_haste_effect_description","text":"+{0} nopeutta."},
 {"sid":"magic_haste_effect_description_special","text":"+{0} nopeutta. Ei voida hälventää."},
 {"sid":"magic_favorable_wind_effect_description","text":"+{0}% vahinkoa etä- ja Pitkän ulottuvuuden hyökkäyksillä."},
+{"sid":"magic_favorable_wind_effect_2_description","text":"+{0}% vahinkoa etä- ja Pitkän ulottuvuuden hyökkäyksillä."},
 {"sid":"magic_masterful_parry_effect_description","text":"Tekee vastaiskun ennen kuin vihollisen hyökkäys osuu."},
 {"sid":"magic_masterful_parry_effect_1_description","text":"Tekee vastaiskun ennen kuin vihollisen hyökkäys osuu. +{0}% vahinkoa vastaiskuilla."},
 {"sid":"magic_masterful_parry_effect_2_description","text":"Tekee vastaiskun ennen kuin vihollisen hyökkäys osuu. +{1}% vahinkoa vastaiskuilla. +{0} bonusvastaiskua joka kierros."},
