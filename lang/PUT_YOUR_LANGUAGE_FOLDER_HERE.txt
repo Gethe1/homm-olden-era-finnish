@@ -1,0 +1,6 @@
+Create one folder here named after your language (e.g. "finnish"), containing:
+  - displayname.txt   (one line: what shows in the in-game dropdown, e.g. "Suomi")
+  - texts/*.json       (your translated files, same names/format as the game's own)
+
+See README.md for the full format and a worked example.
+This file itself is harmless to leave here -- only subfolders are scanned.

@@ -3,21 +3,27 @@
 ## Finnish translation of HOMM Olden Era
 
 Basic Finnish translation of the game.
-Done mostly by Claude, edited most obvious (bad) parts by hand.
 
 Merge requests welcome.
 
 ## Suomenkielinen käännös HOMM Olden Eraan
 
 Käännös englannista suomeksi HOMM Olden Eraan.
-Suurimman työn tehnyt Claude, mutta tähän asti eteen tulleita asioita on käsin korjannut allekirjoittanut.
 
 Merge requesteja otetaan vastaan.
 
-Core.zip on valmiiksi pakattu zippi, joka korvaa puolalaisen käännöksen suomenkielisellä.
-Valikossa näkyy edelleen Puola, vaikka vaihtuu suomeksi.
+## Installation / Asennus
 
-Mikäli homma epäilyttää, voi Core.zip:in purkaa itse ja vaihtaa filut käännöksestä ja pakata sen uudestaan.
+- Install/Asenna [BepInEx](https://www.nexusmods.com/heroesofmightandmagicoldenera/mods/36)
+- Start the game and quit / Avaa peli ja sulje se
+- Install/Asenna [Language loader](https://www.nexusmods.com/heroesofmightandmagicoldenera/mods/59)
+- Drop the lang-folder / Pudota lang-kansio:
+  * BepInEx/plugins/OldenEraCustomLanguage/
+
+Alternatively / Vaihtoehtoisesti:
+- Install/Asenna [BepInEx](https://www.nexusmods.com/heroesofmightandmagicoldenera/mods/36)
+- Start the game and quit / Avaa peli ja sulje se
+- Unzip / unzippaa [files](https://www.nexusmods.com/heroesofmightandmagicoldenera/mods/57) :
+  * BepInEx/plugins/
 
 
-Apuja otetaan hartaasti vastaan.
