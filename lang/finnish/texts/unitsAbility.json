@@ -340,7 +340,7 @@
 {"sid":"pet_ability_2_name","text":"Kutsu lauma"},
 {"sid":"pet_ability_2_description","text":"Tämä olento lisää pinoonsa {0} tilapäistä yksikköä."},
 {"sid":"graverobber_name","text":"Haudanryöväri"},
-{"sid":"graverobber_upg_name","text":"Kuolemankauppias"},
+{"sid":"graverobber_upg_name","text":"Kalmankauppias"},
 {"sid":"graverobber_upg_alt_name","text":"Kennelimestari"},
 {"sid":"graverobber_narrativeDescription","text":"Haudanryöväreitä seuraa nekromantikkoja, avustaen luurankojen ja ruumiiden hankkimisessa herättämistä varten keinolla millä hyvänsä — joko kaivamalla esiin jo kuolleita tai luomalla uusia ruumiita.\n\nHeidän jatkuva altistumisensa kuoleman energioille jättää heidät lähes erottamattomiksi itse kuolleista."},
 {"sid":"graverobber_upg_narrativeDescription","text":"Ruumiiden hankkiminen nekromantikoille on tuottoisaa liiketoimintaa, mutta sielut ovat vieläkin arvokkaampia. Kuolemankauppiaat ovat hallinneet alkemian taidot, joita tarvitaan vain kaikkein arvostetuimpien ja rakkaudesta riutuvien näytteiden vangitsemiseen."},
